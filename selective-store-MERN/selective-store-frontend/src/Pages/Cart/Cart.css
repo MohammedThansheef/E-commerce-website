@@ -1,0 +1,18 @@
+.cart {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 20px;
+  background-color: white;
+}
+
+.cart__title {
+  border-bottom: 1px solid lightgray;
+}
+
+@media (max-width: 700px) {
+  .cart {
+    display: flex;
+    flex-direction: column;
+    flex-flow: column-reverse;
+  }
+}

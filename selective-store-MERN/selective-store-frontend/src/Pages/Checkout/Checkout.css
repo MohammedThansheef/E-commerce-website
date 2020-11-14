@@ -1,0 +1,57 @@
+.checkout {
+  background-color: white;
+  padding: 10px 20px;
+}
+.checkout h1 {
+  text-align: center;
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 10px;
+}
+.checkout__placeOrder {
+  display: flex;
+  flex-direction: column;
+}
+
+.checkout__placeOrder h5 {
+  font-weight: 500;
+  color: gray;
+}
+
+.checkout__placeOrder button {
+  margin: 10px 0;
+  width: 120px;
+  background-color: #f0c14b;
+  cursor: pointer;
+}
+.checkout form {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+}
+
+.checkout form input {
+  margin: 5px 0;
+  padding: 2px;
+}
+
+.checkout form select {
+  margin: 5px 0;
+  padding: 2px;
+  background-color: lightgray;
+  cursor: pointer;
+}
+
+.checkout form select option {
+  background-color: white;
+  cursor: pointer;
+}
+.checkout form button {
+  margin: 20px 0;
+  width: 120px;
+  background-color: #f0c14b;
+  cursor: pointer;
+}
+
+.checkout button:hover {
+  color: rgb(14, 153, 14);
+}

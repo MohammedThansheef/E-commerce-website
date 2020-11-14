@@ -1,0 +1,10 @@
+.orderSuccess {
+  background-color: white;
+  display: grid;
+  place-items: center;
+  padding: 20px;
+}
+
+.orderSuccess span {
+  color: green;
+}

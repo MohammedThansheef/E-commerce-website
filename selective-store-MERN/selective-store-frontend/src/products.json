@@ -1,0 +1,87 @@
+{
+  "clothing": [
+    {
+      "id": 1,
+      "title": "Scott International Men's Regular Fit T-Shirt (Pack of 3)",
+      "price": 693,
+      "ratings": 4,
+      "image": "https://m.media-amazon.com/images/I/71vp8Lec9JL._AC_UL320_.jpg"
+    },
+
+    {
+      "id": 2,
+      "title": "Newport University Men's Regular Fit Casual Shirt",
+      "price": 594,
+      "ratings": 5,
+      "image": "https://m.media-amazon.com/images/I/81an1oBzPdL._AC_UL320_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Denim Hood Front Pocket Button Closure Jacket",
+      "price": 789,
+      "ratings": 4,
+      "image": "https://m.media-amazon.com/images/I/41Eh5EBfI9L._AC_UL320_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Realone -Men's Formal Shirt",
+      "price": 329,
+      "ratings": 3,
+      "image": "https://m.media-amazon.com/images/I/61kgtdMZbTL._AC_UL320_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Men's Printed Grey Slim Fit Casual Shirt",
+      "price": 499,
+      "ratings": 5,
+      "image": "https://m.media-amazon.com/images/I/91SJXBPsB4L._AC_UL320_.jpg"
+    }
+  ],
+  "Mobiles": [
+    {
+      "id": "6",
+      "title": "IRedmi K20 Pro (Carbon Black, 8GB RAM, 256GB Storage)",
+      "price": 11999,
+      "ratings": 4,
+      "image": "https://m.media-amazon.com/images/I/71FringFilL._AC_UL320_.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Samsung Galaxy M51 (Electric Blue, 6GB RAM, 128GB Storage)",
+      "price": 22499,
+      "ratings": 5,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/710weRkP-nL._SY606_.jpg"
+    },
+
+    {
+      "id": "8",
+      "title": "Redmi 9A (Midnight Black, 2GB RAM, 32GB Storage)",
+      "price": 6799,
+      "ratings": 3,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/712Ex7xDndL._SL1500_.jpg"
+    }
+  ],
+  "Watches": [
+    {
+      "id": "11",
+      "title": "Mikado Analogue Quartz Movement Black Dial Girls Watch",
+      "price": 1299,
+      "ratings": 4,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81eaNn3rxaL._UX679_.jpg"
+    },
+    {
+      "id": "12",
+      "title": "SHOPTOSHOP STM4 Smart Band Fitness Tracker Watch",
+      "price": 474,
+      "ratings": 5,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51zlMach8TL._SL1000_.jpg"
+    },
+    {
+      "id": "13",
+      "title": "Vills Laurrens Black Dial Wrist Watch for Men and Boys VL-1114",
+      "price": 349,
+      "ratings": 5,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71uK-2cc7DL._UL1500_.jpg"
+    }
+  ]
+}
